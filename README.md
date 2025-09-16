@@ -64,7 +64,6 @@ Examples
 ./build/trades --config config.txt
 ```
 
-License
-
-- This showcase depends on external libraries under their own licenses.
-- The original code is provided under your preferred license; add a LICENSE file if desired.
+Socials: 
+LinkedIn: https://www.linkedin.com/in/marcus-frid-johansson/
+X/Twitter: https://x.com/marcusjihansson
