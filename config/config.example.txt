@@ -1,0 +1,21 @@
+# Example configuration for the C++ crypto showcase
+
+# Liquidity Analyzer
+liq_exchange=binance
+liq_symbol=BTCUSDT
+liq_sub_trade=1
+liq_sub_orderbook=1
+
+# Options Calculator
+risk_free_rate=0.05
+default_days_to_expiry=30.0
+
+# Arbitrage (cross-exchange monitor)
+arb_symbol=BTCUSDT
+arb_min_price_diff=1.0
+arb_profit_threshold=0.5
+
+# Trades stream analysis
+trades_exchange=binance
+trades_symbol=BTCUSDT
+trades_channel=TRADE
